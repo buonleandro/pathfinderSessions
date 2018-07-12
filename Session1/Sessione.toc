@@ -1,0 +1,30 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {part}{I\hspace {1em}Introduzione}{iii}{part.1}
+\contentsline {chapter}{Per iniziare}{iv}{chapter*.2}
+\contentsline {chapter}{Ambiente e dungeon}{v}{chapter*.3}
+\contentsline {section}{\numberline {0.1}Regole ambientali}{v}{section.0.1}
+\contentsline {subsection}{\numberline {0.1.1}Acido}{v}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {0.1.2}Acqua}{vi}{subsection.0.1.2}
+\contentsline {subsubsection}{\numberline {0.1.2.1}Affogare}{vi}{subsubsection.0.1.2.1}
+\contentsline {subsection}{\numberline {0.1.3}Caduta}{vii}{subsection.0.1.3}
+\contentsline {subsection}{\numberline {0.1.4}Caldo}{ix}{subsection.0.1.4}
+\contentsline {subsubsection}{\numberline {0.1.4.1}Prendere fuoco}{ix}{subsubsection.0.1.4.1}
+\contentsline {subsubsection}{\numberline {0.1.4.2}Diffusione del fuoco}{x}{subsubsection.0.1.4.2}
+\contentsline {subsubsection}{\numberline {0.1.4.3}Incendi}{xi}{subsubsection.0.1.4.3}
+\contentsline {subsubsection}{\numberline {0.1.4.4}Spegnere un fuoco}{xi}{subsubsection.0.1.4.4}
+\contentsline {subsubsection}{\numberline {0.1.4.5}Fumo}{xii}{subsubsection.0.1.4.5}
+\contentsline {subsubsection}{\numberline {0.1.4.6}Lava}{xii}{subsubsection.0.1.4.6}
+\contentsline {subsection}{\numberline {0.1.5}Fame e sete}{xii}{subsection.0.1.5}
+\contentsline {subsection}{\numberline {0.1.6}Freddo}{xiii}{subsection.0.1.6}
+\contentsline {subsubsection}{\numberline {0.1.6.1}Ghiaccio}{xiv}{subsubsection.0.1.6.1}
+\contentsline {subsection}{\numberline {0.1.7}Oscurit\IeC {\`a}}{xiv}{subsection.0.1.7}
+\contentsline {subsection}{\numberline {0.1.8}Soffocamento}{xv}{subsection.0.1.8}
+\contentsline {section}{\numberline {0.2}Dungeon}{xv}{section.0.2}
+\contentsline {part}{II\hspace {1em}La Storia}{1}{part.2}
+\contentsline {chapter}{\numberline {1}Il Giudizio}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Profili}{5}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Ulfgar}{5}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Capo della banda degli orchi}{5}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Quest secondarie}{6}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Pergamena delle celle}{6}{subsection.1.2.1}

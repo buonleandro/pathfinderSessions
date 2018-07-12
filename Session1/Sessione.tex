@@ -1,0 +1,71 @@
+\documentclass[a4paper, oneside, 12pt]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{sectsty}
+\usepackage{color}
+\usepackage{amssymb}
+\usepackage{lipsum}
+\usepackage{hyperref}
+
+%Configurazione documento
+\newcommand\setitle{\bfseries{PLACEHOLDER}} %Titolo sessione
+\newcommand\seauthor{autore} %Autore sessione
+%Fine configurazione
+
+\newcommand{\HRule}[1]{\rule{\linewidth}{#1}}
+\onehalfspacing
+\setcounter{tocdepth}{5}
+\setcounter{secnumdepth}{5}
+
+\usepackage{afterpage}
+\newcommand\blank{\null\thispagestyle{empty}\clearpage}
+
+\usepackage[T1]{fontenc}
+\usepackage{aurical}
+\usepackage[light]{merriweather}
+
+\usepackage{etoolbox}
+\patchcmd{\part}{\thispagestyle{plain}}{\thispagestyle{empty}}
+{}{\errmessage{Cannot patch \string\part}}
+
+\newcommand{\chaptertitle}{}
+\newcommand{\setchaptertitle}[1]{\renewcommand{\chaptertitle}{#1}}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\setitle}
+\fancyhead[R]{\chaptertitle}
+\fancyfoot[C]{\thepage}
+
+\begin{document}
+	
+	\title{{\fontsize{60}{70}{\Fontauri Pathfinder}}
+			\\ [1.0cm]
+			\HRule{2pt}\\
+			\Large{\setitle}
+			\HRule{2pt}
+			\\[0.5cm]
+			\normalsize{a cura di: \emph{\seauthor}}}
+	\date{}
+	\author{}
+	
+	\maketitle
+	
+	\include{Introduzione/colophon}
+	
+	\frontmatter
+		\tableofcontents
+		
+		\part{Introduzione}
+			\include{Introduzione/guidalettura}
+			\include{Introduzione/luoghiintr}
+		
+	\mainmatter
+		\part{La Storia}
+			\include{capitolo01}
+
+\end{document}
